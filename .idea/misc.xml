@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="D:\Users\shayebushi\anaconda3\Scripts\black.exe" />
+    <option name="sdkUUID" value="239b7787-2b85-49c2-bcd2-2b26da084aea" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="bushilearning" project-jdk-type="Python SDK" />
+</project>
